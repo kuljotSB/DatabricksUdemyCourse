@@ -1,0 +1,4 @@
+llm_endpoint: "databricks-meta-llama-3-3-70b-instruct"
+warehouse_id: "b974eaa33ced55cb"
+uc_functions:
+  []
