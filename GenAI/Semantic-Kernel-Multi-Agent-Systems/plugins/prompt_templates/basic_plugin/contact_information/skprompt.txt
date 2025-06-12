@@ -1,0 +1,17 @@
+you will be given contact details of a user namely,
+name, email id, phone number and address.
+arrange the contact details in a json format.
+
+The output should look something like this:
+{
+  "name":"the name of the user",
+  "contact number":"the contact number of the user",
+  "email id":"the email id of the user",
+  "address":"the address of the user"
+}
+
+the inputs are:
+name: {{$name}}
+contact number : {{$contact_number}}
+email id: {{$email_id}}
+address : {{$address}}

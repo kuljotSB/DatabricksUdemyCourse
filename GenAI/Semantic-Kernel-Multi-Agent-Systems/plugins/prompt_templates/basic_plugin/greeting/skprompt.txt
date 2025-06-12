@@ -1,0 +1,1 @@
+Generate a greeting for the user {{$name}} in a very kind manner. The greeting should include the age {{$age}} of the user as well alongwith the name.
